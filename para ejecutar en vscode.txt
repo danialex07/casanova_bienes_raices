@@ -1,0 +1,22 @@
+npm run server
+
+npm run css
+
+npm i nodemailer
+
+npm i csurf cookie-parser
+
+
+//usuario: daniel@daniel.com
+//contrasena: password
+
+
+//usuario oficial 1
+usuario= enrique@gmail.com
+password= 19941994
+
+//usuario oficial 2
+usuario= juanito@gmail.com
+password= 123456789
+
+
